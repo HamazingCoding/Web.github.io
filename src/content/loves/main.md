@@ -1,11 +1,11 @@
 ---
 # title: string
 # Will be used for HTML Title
-title: "My Valentine"
+title: "Aniqa"
 
 # openingPhrase: string
 # Will be used for opening phrase (header on main page)
-openingPhrase: "Will you be my valentine?"
+openingPhrase: "Happy Birthday Baby :)"
 
 # acceptedPhrase: string
 # Will be used for accepted phrase (header on main page, when yes is pressed)
@@ -14,7 +14,7 @@ acceptedPhrase: "Yay, Love you too - xoxo"
 # rejectionText: array of string
 # Will be used for changing text when Right button (No) is pressed
 rejectionText:
-  - "No"
+  - "I dont love you"
   - "You sure?"
   - "Really sure?"
   - "Positive??"
@@ -29,7 +29,7 @@ rejectionText:
 
 # acceptText: string
 # Will be used for Left Button text
-acceptText: "Yes"
+acceptText: "I love youuu"
 
 # pendingImage: Image
 # Will be used for first shown image
