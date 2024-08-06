@@ -29,7 +29,7 @@ rejectionText:
 
 # acceptText: string
 # Will be used for Left Button text
-acceptText: "I love youuu"
+acceptText: "I love youuu tooo"
 
 # pendingImage: Image
 # Will be used for first shown image
